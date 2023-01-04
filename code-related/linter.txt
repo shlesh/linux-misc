@@ -1,0 +1,4 @@
+This script will iterate through all the files in the current directory and lint them based on their file extension using the appropriate linting tool. For example, C/CPP files will be linted using cpplint.
+To use this script, make it executable by running chmod +x lint.sh. Then you can simply run the script by typing ./lint.sh.
+Voila!
+So this was my first simple bash script :)
